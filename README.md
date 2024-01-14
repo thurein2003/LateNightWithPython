@@ -18,6 +18,6 @@ Welcome to the LateNightWithPython repository! 🌙🐍
 
 ## Overview
 
-[![Team Contribution Chart](https://camo.githubusercontent.com/0a5427c703d97e79b5d791ab5fbc9f0a1a0c76c66e1653c312c87c46c1789e17/68747470733a2f2f6769746875622d636f6e7472696275746f722d616e757261676865722e6865726f6b756170702e636f6d2f63616d6f2f6769746875622d726561646d652d61637469766974792d67726170682e737667)](https://github.com/thurein2003/LateNightWithPython/graphs/)
+[![Team Contribution Chart](https://github.com/thurein2003/LateNightWithPython/blob/main/team-contribution-chart.png)](https://github.com/thurein2003/LateNightWithPython/graphs/contributors)
 
 [...]
