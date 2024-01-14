@@ -17,15 +17,15 @@ Welcome to the LateNightWithPython repository! 🌙🐍
 - **Thu Rein Oo**
   - [![Thu Rein Oo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thureinoo)](https://github.com/thureinoo)
   - ![Thu Rein Oo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thureinoo)
-  - [![Thu Rein Oo's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=thureinoo&custom_title=Thu%20Rein%20Oo's%20Contribution%20Graph)](https://github.com/thureinoo)
+  - [![Thu Rein Oo's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=thurein2003&custom_title=thurein2003's%20Contribution%20Graph)](https://github.com/thurein2003)
 
 - **Your Name**
   - [![Your Name's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=your-username)](https://github.com/your-username)
   - ![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username)
-  - [![Your Name's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&custom_title=Your%20Name's%20Contribution%20Graph)](https://github.com/your-username)
+  - [![Your Name's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=thurein2003&custom_title=thurein2003's%20Contribution%20Graph)](https://github.com/your-username)
 
 ## Overview
 
-[![Team Contribution Chart](https://github.com/your-username/LateNightWithPython/blob/main/team-contribution-chart.svg)](https://github.com/your-username/LateNightWithPython/graphs/)
+[![Team Contribution Chart](https://github.com/your-username/LateNightWithPython/blob/main/team-contribution-chart.svg)](https://github.com/thurein2003/LateNightWithPython/graphs/)
 
 [...]
