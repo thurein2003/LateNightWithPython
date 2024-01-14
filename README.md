@@ -12,7 +12,7 @@ Welcome to the LateNightWithPython repository! 🌙🐍
 
 
 - **Thu Rein Oo**
-  - [![Thu Rein Oo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thureinoo)](https://github.com/thureinoo2003)
+  - [![Thu Rein Oo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thureinoo)](https://github.com/thurein2003)
 
 - **Your Name**
   - [![Your Name's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=your-username)](https://github.com/your-username)
