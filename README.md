@@ -1,6 +1,8 @@
 # LateNightWithPython
 # LateNightProjectPython Repository
 
+Replace `[Actual coverage percentage]` with your actual code coverage percentage and `your-animation-url.gif` with the actual URL or path to your animated GIF showcasing LateNightWithPython in action. Update the collaborator activity, recent PRs, and issues with the actual details from your repository.
+
 Welcome to the LateNightProjectPython repository! 🌙🐍
 
 ## Project Overview
