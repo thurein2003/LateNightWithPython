@@ -17,6 +17,6 @@ Welcome to the LateNightWithPython repository! 🌙🐍
   - [![Your Name's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=your-username)](https://github.com/your-username)
 
 ## Overview
-[![Repository Contribution Chart]](https://github.com/thurein2003/LateNightWithPython/pulse)
+[Repository Contribution Chart](https://github.com/thurein2003/LateNightWithPython/pulse)
 
 
