@@ -1,0 +1,33 @@
+a, b 
+
+a = Thurein
+b = Thrpu
+
+a =len(7)
+a= 0
+
+def loop(ans,ansb):
+    for ans[i] >= ans.len - 1
+
+        for ans[i] -> ans.len[-1] >> ansb[j]
+        ansb[j] += 1
+    ans.i += 1
+
+ans = print(input("enter a"))
+ansb = print(input("enter b"))
+
+--------------------------------------------------
+abcdef / fedcba
+
+len -> .sorting (abcdef) -> index 1 == 1
+
+
+
+
+
+
+
+
+
+
+
